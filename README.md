@@ -33,6 +33,11 @@ Arguments:
 19. [while loops](/JS/19-while%20loops/index.js)
 20. [do while looops](/JS/20-do%20while%20loops/index.js)
 21. [for loops](/JS/21-for%20loops/index.js)
+22. [break and continue statements](/JS/22-break%20and%20continue%20statements/index.js)
+23. [nested loops](/JS/23-nested%20loops/index.js)
+24. [functions](/JS/24-functions/index.js)
+25. [return statements](/JS/25-return%20statement/index.js)
+26. [ternary operator](/JS/26-ternary%20operator/index.js)
 
 ---
 
