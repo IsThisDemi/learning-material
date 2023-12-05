@@ -29,6 +29,10 @@ Arguments:
 16. - [switches](/JS/16-switches/index.js)
     - [strict equality operator](/JS/16.5%20strict%20equality%20operator/index.js)
 17. [AND OR logical operators](/JS/17-AND%20OR%20logical%20operators/index.js)
+18. [NOT lofical operator](/JS/18-NOT%20logical%20operator/index.js)
+19. [while loops](/JS/19-while%20loops/index.js)
+20. [do while looops](/JS/20-do%20while%20loops/index.js)
+21. [for loops](/JS/21-for%20loops/index.js)
 
 ---
 
