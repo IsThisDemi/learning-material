@@ -39,6 +39,10 @@ Arguments:
 24. [functions](/JS/24-functions/index.js)
 25. [return statements](/JS/25-return%20statement/index.js)
 26. [ternary operator](/JS/26-ternary%20operator/index.js)
+27. [var vs let](/JS/27-var%20vs%20let/index.js)
+28. [templaete literals](/JS/28-template%20literals/index.js)
+29. [format currency](/JS/29-format%20currency/index.js)
+30. [number guessing game](https://github.com/IsThisDemi/number-guesser) (external)
 
 ## 🇮🇹/🇬🇧 [C++](/C++/)
 
