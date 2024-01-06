@@ -1,13 +1,14 @@
 # learning-material
 
 Here you'll find study material and personal exercises that I do trying to learn new programming languages!
+Notice that the content may be in English or Italian depending on the source.
 
 ## Programming Languages
 
 - JS
-- C++ / C (soon)
+- C++ / C
 
-## [JS](/JS/)
+## 🇬🇧 [JS](/JS/)
 
 Arguments:
 
@@ -39,8 +40,15 @@ Arguments:
 25. [return statements](/JS/25-return%20statement/index.js)
 26. [ternary operator](/JS/26-ternary%20operator/index.js)
 
+## 🇮🇹/🇬🇧 [C++](/C++/)
+
+### Object Oriented Programming
+
+- 🇮🇹 [Summary](/C++/OOP/Programmazione%20ad%20oggetti%20semplice%20(per%20davvero).pdf) of the course by [Gabriel Rovesti](https://github.com/gabrielrovesti)
+
 ---
 
 *Learning material source:*
 
 - [Bro Code - JavaScript Full Course](https://www.youtube.com/watch?v=8dWL3wF_OMw&t=4039s&ab_channel=BroCode)
+- Programmazione ad oggetti semplice (per davvero) - [Gabriel Rovesti](https://github.com/gabrielrovesti)
